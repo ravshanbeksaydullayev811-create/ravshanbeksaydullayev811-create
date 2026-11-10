@@ -32,7 +32,12 @@ I'm a passionate Python Backend Developer from Uzbekistan 🇺🇿
 ### 📫 Contact Me
 
 - 📧 Email: ravshanbeksaydullayev811@gmail.com
-- 💻 GitHub: https://github.com/ravshanbeksaydullayev811-create
+- ✈️ Telegram: [@rawanbe](https://t.me/rawanbe)
+- 💼 LinkedIn: Ravshanbek Saydullayev
+
+
+
+
 
 ---
 
