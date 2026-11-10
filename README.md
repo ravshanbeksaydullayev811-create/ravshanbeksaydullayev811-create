@@ -19,16 +19,7 @@ I'm a passionate Python Backend Developer from Uzbekistan 🇺🇿
 <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,git,github,pycharm,vscode" />
 </p>
 
----
 
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ravshanbeksaydullayev811-create&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravshanbeksaydullayev811-create&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 🔥 Contribution Streak
 
