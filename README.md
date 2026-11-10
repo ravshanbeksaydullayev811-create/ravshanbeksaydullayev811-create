@@ -35,12 +35,3 @@ I'm a passionate Python Backend Developer from Uzbekistan 🇺🇿
 - ✈️ Telegram: [@rawanbe](https://t.me/rawanbe)
 - 💼 LinkedIn: Ravshanbek Saydullayev
 
-
-
-
-
----
-
-<p align="center">
-  <i>Building the future, one line of code at a time. 🚀</i>
-</p>
